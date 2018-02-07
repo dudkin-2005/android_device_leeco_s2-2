@@ -152,6 +152,10 @@ PRODUCT_PACKAGES += \
     libgui_vendor
 endif
 
+# Charger
+PRODUCT_PACKAGES += \
+    chargeonlymode
+
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
