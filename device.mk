@@ -152,7 +152,8 @@ PRODUCT_PACKAGES += \
     camera.msm8952 \
     libqomx_core \
     libmmcamera_interface \
-    libmmjpeg_interface
+    libmmjpeg_interface \
+    libgui_vendor
 endif
 
 # Connectivity Engine support (CNE)
