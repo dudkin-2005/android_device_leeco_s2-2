@@ -383,6 +383,10 @@ PRODUCT_PACKAGES += \
     vr.msm8952
 
 # WFD
+PRODUCT_PACKAGES += \
+    libaacwrapper \
+    libnl
+
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
